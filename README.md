@@ -1,4 +1,4 @@
-# ♈ Melusi Lazarus Gumbi
+## ♈ Melusi Lazarus Gumbi
 
 **[![Typing SVG](https://readme-typing-svg.demolab.com?font=Tahoma+Code&pause=1000&color=F7E21D&width=435&lines=Full-Stack+Developer;App+Developer;Tech+Enthusiast;Creative+Coder;Always+Learning)](https://git.io/typing-svg)**
 
