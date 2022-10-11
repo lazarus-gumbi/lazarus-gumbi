@@ -1,4 +1,7 @@
-## ♈ Melusi Lazarus Gumbi
+<h3 align="center">
+  Welcome to Melusi Gumbi's profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
 
 **[![Typing SVG](https://readme-typing-svg.demolab.com?font=Tahoma+Code&pause=1000&color=F7E21D&width=435&lines=Full-Stack+Developer;App+Developer;Tech+Enthusiast;Creative+Coder;Always+Learning)](https://git.io/typing-svg)**
 
