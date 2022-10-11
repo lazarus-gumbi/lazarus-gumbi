@@ -1,6 +1,7 @@
 # ♈ Melusi Lazarus Gumbi
 
 **[![Typing SVG](https://readme-typing-svg.demolab.com?font=Tahoma+Code&pause=1000&color=F7E21D&width=435&lines=Full-Stack+Developer;App+Developer;Tech+Enthusiast;Creative+Coder;Always+Learning)](https://git.io/typing-svg)**
+
 I'm a full-stack developer with the passion for technology. All my coding projects are built by me from the ground up, from planning and designing all the way to solving real-life problems. I also have a passion for teaching others what I know as far as programming and software development goes.
 
 <a href='mailto:gumbimelusi2@gmail.com'><img src='https://custom-icon-badges.demolab.com/badge/-gumbimelusi2@gmail.com-yellow?style=for-the-badge&logo=mention&logoColor=white'/></a>
